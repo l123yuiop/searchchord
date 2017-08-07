@@ -1,0 +1,11 @@
+D:\visual Studio project\找詩歌譜\找詩歌譜\obj\Debug\找詩歌譜.csprojResolveAssemblyReference.cache
+D:\visual Studio project\找詩歌譜\找詩歌譜\obj\Debug\找詩歌譜.Form1.resources
+D:\visual Studio project\找詩歌譜\找詩歌譜\obj\Debug\找詩歌譜.Properties.Resources.resources
+D:\visual Studio project\找詩歌譜\找詩歌譜\obj\Debug\找詩歌譜.csproj.GenerateResource.Cache
+D:\visual Studio project\找詩歌譜\找詩歌譜\bin\Debug\找詩歌譜.exe
+D:\visual Studio project\找詩歌譜\找詩歌譜\bin\Debug\找詩歌譜.pdb
+D:\visual Studio project\找詩歌譜\找詩歌譜\obj\Debug\找詩歌譜.exe
+D:\visual Studio project\找詩歌譜\找詩歌譜\obj\Debug\找詩歌譜.pdb
+D:\visual Studio project\找詩歌譜\找詩歌譜\bin\Debug\找詩歌譜.exe.config
+D:\visual Studio project\找詩歌譜\找詩歌譜\bin\Debug\chord.mdf
+D:\visual Studio project\找詩歌譜\找詩歌譜\bin\Debug\chord_log.ldf
